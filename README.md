@@ -23,5 +23,4 @@ This project allows users to manage their daily tasks efficiently through a text
 
 ---
 
-## 📂 Project Structure
 
